@@ -1,14 +1,6 @@
-Project: number-display
-Authors: Michael Kölling and David J. Barnes
+1.  The Class diagram is persistent, it gets saved and when you create objects they aren't saved (they won't get sent to git)
 
-This project is part of the material for the book
+2   They can change when creating a new class
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
+3.  They can change when creating a new object
 
-It is discussed in chapter 3.
-
-To use this project, create an instance of class NumberDisplay. Then inspect this 
-instance and leave the inspector window open. With the inspector window open, 
-call the object's methods, such as increment and setValue.

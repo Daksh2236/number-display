@@ -14,7 +14,8 @@ public class NumberDisplay
 {
     private int limit;
     private int value;
-
+    private Instructor tutor;
+    
     /**
      * Constructor for objects of class NumberDisplay.
      * Set the limit at which the display rolls over.
