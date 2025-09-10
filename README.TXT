@@ -8,5 +8,6 @@
 
 8.  They will not result in a store value because when you call with out the semicolon it can't run the method and when you do it with a value higher than the limit it will not set the value
 
-10.  Error: non-static method getValue() cannot be referenced from a static context
+10. Error: non-static method getValue() cannot be referenced from a static context
 
+11. Error: '.class' expected
