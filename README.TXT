@@ -4,3 +4,5 @@
 
 3.  They can change when creating a new object
 
+5.  When the call increment on minutes has hit 59 and it has rolled over then increment should be called on hours
+
