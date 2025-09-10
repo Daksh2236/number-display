@@ -6,3 +6,7 @@
 
 5.  When the call increment on minutes has hit 59 and it has rolled over then increment should be called on hours
 
+8.  They will not result in a store value because when you call with out the semicolon it can't run the method and when you do it with a value higher than the limit it will not set the value
+
+10.  Error: non-static method getValue() cannot be referenced from a static context
+
