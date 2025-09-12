@@ -18,4 +18,15 @@
 
 15. ! false
     (34 != 33) && ! false
-    because the ! is used as a NOT operator 
+    because the ! is used as a NOT operator
+
+16. a && b ! false
+
+17. a || b && ! false
+
+18. The number will rollback at 999 if the limit is 1000
+    you do not get back a 2 digit string you get a 3 diggit string
+    
+19. no there is a not difference because there is nothing in the ""
+
+20. yes it did suprise me the results are what they are because it reads "cat"+ 3 so then it adds the 3 and then the 9 rather than 9 + 3 + "cat" its doing the addition then adding the word
