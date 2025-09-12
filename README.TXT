@@ -11,3 +11,11 @@
 10. Error: non-static method getValue() cannot be referenced from a static context
 
 11. Error: '.class' expected
+
+13. replacementValue = limit 
+
+14. Any value that is under 0 and is under the limit will be some invalid parameter values
+
+15. ! false
+    (34 != 33) && ! false
+    because the ! is used as a NOT operator 
